@@ -1,13 +1,10 @@
-# CS Comps 2025 — Assignment B Solutions  
-### Stacks, Queues & Priority (Kotlin)
+Stacks, Queues & Priority (Kotlin)
 
-This repository contains the **solution implementations and unit tests** for  
-**Assignment B: Stacks, Queues & Priority**, which is part of the CS Comps 2025 project  
+This repository contains the solution implementations and unit tests for
+Assignment B: Stacks, Queues & Priority, which is part of the CS Comps 2025 project
 “Who Gets Fired First? A Computational Study of Workplace Dynamics Using Stacks, Queues and Priority Queues.”
 
-This repo is intended for **instructor / comps team use only**, not for direct student distribution.
-
-
+This repo is intended for instructor / comps team use only, not for direct student distribution.
 
 Assignment B asks students to:
 
@@ -16,5 +13,6 @@ Assignment B asks students to:
 - Build a min-heap–based priority queue to order layoffs.
 - Reflect on the fairness and impact of these policies.
 
-This repository contains our **reference solutions** for those tasks, plus the **JUnit tests** we wrote to check correctness and document behavior.
+This repository contains our reference solutions for those tasks, plus the JUnit tests we wrote to check correctness and document behavior.
+
 
